@@ -5,7 +5,7 @@
 TEAS Working Group                                               I. Busi
 Internet-Draft                                                    Huawei
 Intended status: Informational                                    A. Guo
-Expires: 16 April 2023                            Futurewei Technologies
+Expires: 6 August 2023                            Futurewei Technologies
                                                                   X. Liu
                                                          IBM Corporation
                                                                  T. Saad
@@ -16,7 +16,7 @@ Expires: 16 April 2023                            Futurewei Technologies
                                                         Juniper Networks
                                                               I. Bryskin
                                                               Individual
-                                                         13 October 2022
+                                                         2 February 2023
 
 
          TE Topology and Tunnel Modeling for Transport Networks
@@ -46,21 +46,21 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 April 2023.
+   This Internet-Draft will expire on 6 August 2023.
 
 
 
 
 
 
-Busi, et al.              Expires 16 April 2023                 [Page 1]
+Busi, et al.              Expires 6 August 2023                 [Page 1]
 
-Internet-Draft       TE Topology and Tunnel Modeling        October 2022
+Internet-Draft       TE Topology and Tunnel Modeling       February 2023
 
 
 Copyright Notice
 
-   Copyright (c) 2022 IETF Trust and the persons identified as the
+   Copyright (c) 2023 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Busi, et al.              Expires 16 April 2023                 [Page 2]
+Busi, et al.              Expires 6 August 2023                 [Page 2]
 
-Internet-Draft       TE Topology and Tunnel Modeling        October 2022
+Internet-Draft       TE Topology and Tunnel Modeling       February 2023
 
 
 2.2.  TE Topology Modeling Constructs
@@ -165,9 +165,9 @@ Acknowledgements
 
 
 
-Busi, et al.              Expires 16 April 2023                 [Page 3]
+Busi, et al.              Expires 6 August 2023                 [Page 3]
 
-Internet-Draft       TE Topology and Tunnel Modeling        October 2022
+Internet-Draft       TE Topology and Tunnel Modeling       February 2023
 
 
    This document was prepared using kramdown.
@@ -221,4 +221,4 @@ Authors' Addresses
 
 
 
-Busi, et al.              Expires 16 April 2023                 [Page 4]
+Busi, et al.              Expires 6 August 2023                 [Page 4]

@@ -60,7 +60,7 @@
       </address>
     </author>
 
-    <date year="2022" month="October" day="13"/>
+    <date year="2023" month="February" day="2"/>
 
     
     <workgroup>TEAS Working Group</workgroup>
@@ -111,7 +111,7 @@ appear in all capitals, as shown here.</t>
 
 <t>To be added</t>
 
-<figure title="TE Topology" anchor="fig-te-topo"><artwork type="svg" src="./te-topo.svg"></artwork></figure>
+<figure title="TE Topology" anchor="fig-te-topo"><artwork type="bmp" src="./te-topo.bmp"></artwork></figure>
 
 <t>To be continued</t>
 
